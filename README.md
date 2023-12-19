@@ -54,25 +54,22 @@ I understand if this is too much trouble, don't worry, i'm used to people someti
 ## how to choose safer products
 - Unscented products that have been allergy certified and manufactured in the EU are generally safe (i've found that products from LV are mostly ok), soaps that are sold in solid form (block soap, non-liquid detergent) generally don't need so many preservatives.
 - avoid using excessive amounts of cleaning products
-- however, since the chemical companies have done a good job at obscuring the actual contents of products (see chapter below)
+
+  
+.. however, chemical companies have often done a good job at obscuring the actual contents of products (see chapter below)
 
 
-
-Thanks for reading so far, you honestly don't have to read further if you don't want to, the rest of the page contains more detailed info and ranting that might be TLDR.
-
-
-# How many people are affected by this?
+# Is this just some obscure problem?
 
 MI was awarded as the Contact Allergen of the Year 2013
 MI is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/) in our patient population, and has been called a "contact allergen epidemic"
 
 The situation has gotten worse after Parabens somehow got themselves a bad reputation, even though they are far less likely to cause allergies. So more manufacturers have switched to MI-like chemicals.
 
-## Why is this even legal?
+## So why is this even legal?
 Some time in 1990, the nice people at chemical companies published this study, claiming that MI is perfectly safe and nothing to worry about. When looking more closely at the study though, there is a clear gap in the test data. 
 
 Some years later, this canadian study filled in that gap, and found that with enough cumulative exposure over a lifetime, nearly everyone will develop allergies eventually.
-
 Still even though there has been a mountain of studies that bring up the concerns of this product, it has remained legal for now.
 
 Luckily, the EU eventually added some [stricter regulations](https://ec.europa.eu/growth/sectors/cosmetics/legislation_en) in 2017, banning this product from *leave-on* cometic products.
@@ -81,21 +78,20 @@ Luckily, the EU eventually added some [stricter regulations](https://ec.europa.e
 .. and many similar enough products that don't fall within the regulated substance list (kinda like designer drugs, it's relatively easy for the chemical company to just modify the substance a bit and then continue using it)
 
 The cogs of bureaucracy also move very slowly, and any EU regulation can take years to affect produts sold on store shelves.
-
 Decreasing the overall exposure to these substances is definitely great, but for people that are already sensitized, this may not be enough.
 
-# How to find out if a product contains MI?
+# How do I find out if a product contains MI?
 
 ## check the packaging
 The first step is to check the packaging, it might (or might not) be mentioned as one of the ways mentioned above.
 
-## certificates
+## Look for certificates
 if you find one of these on the packaging, it is probably safe
 - "allergia & astmaliitto"
 - "Joutsenmerkki" (not 100% sure about this)
 
 ## check the safety card
-If it's not mentioned, you're still not safe! many products actually containing this don't mention it directly on the packaging. Luckily the EU has mandated that all manufacturers need to provide a [safety card](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote) (or käyttöturvallisuustiedote in finnish) either on their website or by request. (the Tukes page says these safety cards are [for profressionals only](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote), not for end users, why this information is not publicly available is a good question)
+If it's not mentioned, you're still not safe! many products actually containing this don't mention it directly on the packaging. Luckily the EU requires by law that all manufacturers need to provide a [safety card](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote) (or käyttöturvallisuustiedote in finnish) either on their website or by request, and any amounts of MI have to be mentioned there. (the Tukes page says these safety cards are [for profressionals only](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote), not for end users, why this information is not publicly available is a good question)
 
 ### finding the card in the kemidigi database
 To make things a bit easier, there is this [chemical search page](https://www.kemidigi.fi/kemikaalihaku) where you can search for products.
