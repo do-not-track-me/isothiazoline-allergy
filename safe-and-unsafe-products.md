@@ -38,7 +38,7 @@ Here is a list of products used for various purposes that i've found mostly okay
 |
 
 # List of known bad products >:|
-Avoid at all cost!
+Avoid at all cost! (There are probably countless other products, but these are just the ones i have come across)
 
 ## Brands which i found most products contain MI-like preservatives
 - Omo (all products but especially liquids) (MI/MCI in large quantities)
@@ -59,4 +59,4 @@ Avoid at all cost!
 - vanish products
 - various air fresheners (many of these actually contain quite dodgy stuff)
 
-There are probably countless other products, but these are just the ones i have come across
+
