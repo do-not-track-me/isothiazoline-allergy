@@ -17,5 +17,5 @@ Here is a list of products used for various purposes that i've found mostly okay
 ## Stains
 - [Baking/washing soda](https://www.ruohonjuuri.fi/products/marius-fabre-ruokasooda-puhdistukseen-700-g)
 
-## unclog the drain
+## Unclogging the drain
 - NaOH (sodium hydroxide) ([viemärirae](https://www.tokmanni.fi/viemarirae-1-kg-6419652123465))
