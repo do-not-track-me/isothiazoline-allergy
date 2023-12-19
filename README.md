@@ -132,6 +132,19 @@ Since liquid (especially water based) cleaning products are easier to spoil vs o
 - liquid mäntysuopa (even though the packaging says it's 100% natural) (there's even [reports of this affecting pets](https://www.iltalehti.fi/kotimaa/a/b78562ab-8c6f-4efd-9d37-2e77db676e31) )
 - add more items here later
 
+# FAQ
+
+"I don't use any harsh chemicals, maybe it's just psychological"
+- i you need proof i haven't lost my mind, i can show the allergy patch test results, as well as a doctors note that recommends avoiding any spaces where MI has been used
+"But this product says it's all natural!"
+- looks can be deceiving, and i've ran into countless "100% natural" products that did end up having the substance
+"But the products have to be preserved somehow!!"
+- There are plenty of less harmful alternatives. 
+"But things need to be cleaned!"
+- If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain, the answer is no. A block of soap can be created from literally just two different substances, and has been used for thousands of years just fine, and plenty of other simple products can be used for all kinds of different purposes.
+"But my clothes smell so fresh when i use this fabric softener!"
+- That "fresh" smell is actually an artificial chemical smell that is added to the detergent. If you can smell it on your clothes, it means those chemicals are in your clothes, in contact with your skin 247. Actually clean clothes that haven't been soaked in some overengineered chemical soup, should smell like nothing at all.
+
 
 # if you are in the same boat, here are some tips that might help
 
