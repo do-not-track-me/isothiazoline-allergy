@@ -41,8 +41,8 @@ Here is a list of products used for various purposes that i've found mostly okay
 Avoid at all cost! (There are probably countless other products, but these are just the ones i have come across)
 
 ## Brands which i found most products contain MI-like preservatives
-- Omo (all products but especially liquids) (MI/MCI in large quantities)
-- Bio Luvil (all products, most products contain MI *and* OIT)
+- Omo (various products, especially liquid ones) (MI/MCI in large quantities)
+- Bio Luvil (most products contain MI *and* OIT)
 - Tolu (most products i checked contain MI & BIT)
 - Havu Mäntysuopa (at least liquid versions) (MIT and BIT, probably large quantities)
 - Pledge (MI/MCI)
