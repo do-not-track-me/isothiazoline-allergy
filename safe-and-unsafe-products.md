@@ -44,10 +44,11 @@ Avoid at all cost! (There are probably countless other products, but these are j
 - Omo (various products, especially liquid ones) (MI/MCI in large quantities)
 - Bio Luvil (most products contain MI *and* OIT)
 - Tolu (most products i checked contain MI & BIT)
-- Havu Mäntysuopa (at least liquid versions) (MIT and BIT, probably large quantities)
 - Pledge (MI/MCI)
 - Softcare (at least wool and leather cleaning products) (BIT & MI)
 
+## specific products that i've checked
+- Havu Mäntysuopa (at least liquid versions) (MIT and BIT, probably large quantities) (this was a bit of a surprise since it's kind of marketed as a natural product.)
 - Suma Rapid D6 (window cleaning spray) (BIT)
 - Extreme stain and odour remover (for pet stains) (BIT)
 
