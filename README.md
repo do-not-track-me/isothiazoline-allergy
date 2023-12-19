@@ -132,6 +132,7 @@ Since liquid (especially water based) cleaning products are easier to spoil vs o
 - add more items here later
 
 
+# if you are in the same boat, here are some tips that might help
 
 https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/tips-if-you-are-also-struggling-with-this.md
 
