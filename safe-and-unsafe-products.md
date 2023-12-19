@@ -3,7 +3,7 @@ Here is a list of products used for various purposes that i've found mostly okay
 
 
 ## Detergent
-- [Marseille soap (also sold as flakes)](https://www.ruohonjuuri.fi/collections/marius-fabre/products/marius-fabre-marseille-saippua-400-g)
+- the non-liquid version of [marseille soap](https://www.ruohonjuuri.fi/collections/marius-fabre/products/marius-fabre-marseille-saippua-400-g) (these are also sold as flakes)
 - If some liquid detergent has to be used, [LV Color](https://www.lv.fi/product/lv-color-pyykinpesuneste/) is probably the least bad one.
 
 ## Wool detergent
