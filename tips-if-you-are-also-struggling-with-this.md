@@ -1,4 +1,4 @@
-On the previous page I went through some generally useful info about what MI allergy is, and how others can help make life a bit easier.
+On the [previous page](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/README.md) I went through some generally useful info about what MI allergy is, and how others can help make life a bit easier.
 
 If you are actually dealing with this same bullshit though, here is some stuff i've found useful
 
@@ -35,7 +35,7 @@ so turns out all kinds of dodgy chemicals are also used in the clothes manufactu
 
 ## other tips
 - as a general rule of thumb, solid soaps need less preservatives
-- when asking for product information, try to avoid phrasing the question in a way that can be taken as an attack against them. this isn't the only skeleton the chemical / cosmetics industry has in their closet, so it understandably doesn't take much for someone to get on the defensive side.
+- when inquiring for product information, try to phrase the question in a neutral manner, as mentioned in the previous page, these allergies should not come as a surprise so it understandably doesn't take much for someone to take a defensive side on things.
 - even though MI has a fairly long half life (it is a preservative after all), it is possible to speed up this process by exposing it to acidic or alkaline conditions, (heat and uv radiation also helps) for an extended period of time (iirc alkaline might be slightly more effective, but then again that is worse for your skin so just be careful and be mindful of neutralizing things first)
 - I found some studies indicating that Glutathione is particularly good at neutralizing MI. 
 - 
