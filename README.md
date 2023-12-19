@@ -58,7 +58,8 @@ I understand if this is too much trouble, don't worry, i'm used to people someti
 - however, since the chemical companies have done a good job at obscuring the actual contents of products (see chapter below "#how to find out which produts contain MI")
 
 
-the rest of the page contains more detailed info and ranting that might be TLDR
+
+Thanks for reading so far, you honestly don't have to read further if you don't want to, the rest of the page contains more detailed info and ranting that might be TLDR.
 # How to find out if a product contains MI?
 
 ## check the packaging
