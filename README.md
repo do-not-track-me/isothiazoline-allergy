@@ -86,8 +86,7 @@ If the safety card for this document can *not* be found on this website, the onl
 ## the product is bought from outside the EU
 - many countries outside the EU like a majority of american and asian countries (including the US), don't have the same regulations the EU does, so it might not be possible to get a definite answer on this.
 
-# Where is MI used?
-
+# Most difficult products to avoid
 Products that are most difficult to avoid (i.e. it's not always your own choice what products people use):
 - laundry detergents and softeners
 - cleaning products used to clean surfaces at home or public spaces
@@ -132,40 +131,3 @@ The cogs of bureaucracy also move very slowly, and any EU regulation can take ye
 
 Decreasing the overall exposure to these substances is definitely great, but for people that are already sensitized, this may not be enough.
 
-
-# Tips i've found to cope with this bullshit
-I'll start with the products which i've found are ok, since that list is shorter
-## personal hygiene
-- for washing: a solid block of marseille soap
-- moisturizer: organic (food grade) coconut oil
-- soothing irritated skin: organic honey as a mask, aloe vera
-- skin exfoliation: salt + honey mixture
-- shaving: an old school safety razor (most of the cheap plastic ones contain a small soap block)
-## washing clothes
-- solid marseille soap (it's also used as a bag of flakes which dilutes faster into water)
-- soaking in vinegar overnight
-## the clothes
-so turns out all kinds of dodgy chemicals are also used in the clothes manufacturing process. Here's some stuff that has helped:
-- certificates like [OEKO-TEX](https://www.oeko-tex.com/importedmedia/downloadfiles/STANDARD_100_by_OEKO-TEX_R__-_Limit_Values_and_Individual_Substances_According_to_Appendices_4___5_en.pdf) and [GOTS](https://global-standard.org/images/resource-library/documents/standard-and-manual/gots_version_6_0_en1.pdf) help, but are no silver bullet
-- opt for products that have less dye
-- prefer products manufactured in the EU (more regulations), and companies that provide a credible chain of manufacturing
-- avoid fast fashion / cheap brands like H&M
-- prefer natural products (i.e. 100% merino wool)
-- you can send the manufacturer an email and just ask about their manufacturing process. if the answer is vague / they don't keep track of it, it's usually a good sign to pass on it
-### Some clothes brands i've had better luck with:
-- Devold's 100% merino wool products
-- Finlayson's undyed 100% flax bedsheets
-- Futonnetti.fi for futon mattresses
-- saarentaika.com 100% organic cotton (undyed) towel
-- some patagonia / black diamond products
-## cleaning the house
-- the same marseille soap
-- diluted vinegar
-- just water
-- Washing soda is great for bad stains.
-
-
-
-## other tips
-- as a general rule of thumb, solid soaps need less preservatives
-- when asking for product information, try to avoid phrasing the question in a way that can be taken as an attack against them. this isn't the only skeleton the chemical / cosmetics industry has in their closet, so it understandably doesn't take much for someone to get on the defensive side.
