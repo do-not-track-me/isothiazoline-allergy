@@ -6,7 +6,7 @@ So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising
 
 , a preservative used in most liquid detergents, cleaning products, etc.
 
-(I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone)
+(I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products. )
 
 # What this means in practice
 
