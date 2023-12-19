@@ -53,7 +53,7 @@ I understand if this is too much trouble, don't worry, i'm used to people someti
 ## how to choose safer products
 - Unscented products that have been allergy certified and manufactured in the EU are generally safe (i've found that products from LV are mostly ok), soaps that are sold in solid form (block soap, non-liquid detergent) generally don't need so many preservatives.
 - avoid using excessive amounts of cleaning products
-- however, since the chemical companies have done a good job at obscuring the actual contents of products (see chapter below "#how to find out which produts contain MI")
+- however, since the chemical companies have done a good job at obscuring the actual contents of products (see chapter below)
 
 
 
