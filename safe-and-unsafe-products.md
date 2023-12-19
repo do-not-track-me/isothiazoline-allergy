@@ -27,11 +27,11 @@ Here is a list of products used for various purposes that i've found mostly okay
 - sol tehopuhdistaja
 - kiilto pro sanitop
 
--
---
----
---
--
+|
+|
+|
+|
+|
 
 # List of known bad products >:|
 Avoid at all cost!
