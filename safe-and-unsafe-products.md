@@ -12,12 +12,13 @@ Here is a list of products used for various purposes that i've found mostly okay
 ## Clothes misc
 - soak in vinegar overnight to get rid of smells
 
+## Stains
+- [Baking/washing soda](https://www.ruohonjuuri.fi/products/marius-fabre-ruokasooda-puhdistukseen-700-g)
+
 ## Cleaning surfaces at home
 - Marseille soap
 - diluted vinegar
 
-## Stains
-- [Baking/washing soda](https://www.ruohonjuuri.fi/products/marius-fabre-ruokasooda-puhdistukseen-700-g)
 
 ## Unclogging the drain
 - NaOH (sodium hydroxide) ([viemärirae](https://www.tokmanni.fi/viemarirae-1-kg-6419652123465))
