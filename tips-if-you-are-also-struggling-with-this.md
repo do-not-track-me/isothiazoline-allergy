@@ -37,7 +37,14 @@ so turns out all kinds of dodgy chemicals are also used in the clothes manufactu
 - as a general rule of thumb, solid soaps need less preservatives
 - when inquiring for product information, try to phrase the question in a neutral manner, as mentioned in the previous page, these allergies should not come as a surprise so it understandably doesn't take much for someone to take a defensive side on things.
 - even though MI has a fairly long half life (it is a preservative after all), it is possible to speed up this process by exposing it to acidic or alkaline conditions, (heat and uv radiation also helps) for an extended period of time (iirc alkaline might be slightly more effective, but then again that is worse for your skin so just be careful and be mindful of neutralizing things first)
-- I found some studies indicating that Glutathione is particularly good at neutralizing MI. 
+- I found some studies indicating that Glutathione is particularly good at neutralizing MI.
+- having a brief explanation as text that can be shared if needed. explaining the whole shebang can sometimes feel overwhelming, especially if it needs to be done late at night when you just want to sleep
+
+## useful products
+- single use plastic shoe covers (useful when needing to go where the floor is lava)
+- some kind of plastic seat cover that can be easily washed
+- i've found that applying petroleum jelly before leaving the house creates a protective layer and reduces the skin absorption
+- wearing fabric or vinyl gloves
 
 # where to find information
 - someone actually wrote a book about it! (Living with Methylisothiazolinone Allergy: The Complete Guide)[https://www.amazon.com/Living-Methylisothiazolinone-Allergy-Complete-Guide-ebook/dp/B07KV43FB6). There is a lot of useful information in here.
