@@ -1,4 +1,4 @@
-# Hiya!
+# Isothiazoline contact dermatitis explained
 
 (I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
 
