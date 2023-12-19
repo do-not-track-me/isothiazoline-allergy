@@ -1,12 +1,12 @@
 # Hiya!
 
+(I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
+
 So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals) to this chemical group called
 
 * [isothiazolines](https://en.wikipedia.org/wiki/Isothiazolinone) *
 
 , a preservative used in most liquid detergents, cleaning products, etc.
-
-(I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products. )
 
 # What this means in practice
 
@@ -61,8 +61,7 @@ I understand if this is too much trouble, don't worry, i'm used to people someti
 
 # Is this just some obscure problem?
 
-MI was awarded as the Contact Allergen of the Year 2013
-MI is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/) in our patient population, and has been called a "contact allergen epidemic"
+MI was awarded as the Contact Allergen of the Year 2013, and is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/) in our patient population, and has been referred to as a "contact allergen epidemic".
 
 The situation has gotten worse after Parabens somehow got themselves a bad reputation, even though they are far less likely to cause allergies. So more manufacturers have switched to MI-like chemicals.
 
