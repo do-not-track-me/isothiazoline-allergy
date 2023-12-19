@@ -6,7 +6,7 @@ Hey, so i have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensit
 
 , a preservative used in most liquid detergents, cleaning products, etc.
 
-# What this means
+# What this means in practice
 
 Any contact with surfaces (even trace amounts) that have been cleaned with a product containing this preservative, will cause very uncomfortable skin irritation.
 
@@ -32,7 +32,7 @@ Currently the most common ones used in household cleaning products:
 
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
-# How can you help me / anyone else with MI allergy?
+# How can you help me / anyone else with a chemical allergy?
 
 I don't expect people to always know which products contain MI and which don't (it's not always listed directly on the package).
 It would be really helpful though, if I am planning on stopping by, to get a list of products that have been used around the house:
