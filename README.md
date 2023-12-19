@@ -22,9 +22,10 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 these names are are all a bit of a mouthful, but i guess the gist of things is that they are commonly used preservatives.
 Currently the most common ones used in household cleaning products:
-Methylisothiazoline (MI), Methylchloroisothiazoline (MCI), Octhilinone or octyl-isothiazoline (OIT), Benzisothiazolinone (BIT), and some fragrances might also contain these
 
-They might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one
+**Methylisothiazoline** (MI), **Methylchloroisothiazoline** (MCI), **Octhilinone** or **octyl-isothiazoline** (OIT), **Benzisothiazolinone** (BIT), and some **fragrances** might also contain these
+
+There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one
 - there are many [brand names](https://dermnetnz.org/topics/methylisothiazolinone-allergy) (see chapter "alternative names") but i have not come across these in EU produtcts
 
 *as a general rule of thumb, any compounds that start with methyl, oct, or has "isothial" somewhere within the word, are at least worth double checking.*
