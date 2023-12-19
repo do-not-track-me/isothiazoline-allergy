@@ -1,10 +1,12 @@
-# Intro
+# Hiya!
 
-Hey, so i have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals) to this chemical group called
+So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals) to this chemical group called
 
 * [isothiazolines](https://en.wikipedia.org/wiki/Isothiazolinone) *
 
 , a preservative used in most liquid detergents, cleaning products, etc.
+
+(I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone)
 
 # What this means in practice
 
