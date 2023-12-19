@@ -18,8 +18,8 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 .. which is kind of unfortunate since [it's used practically everywhere](https://dermnetnz.org/topics/methylisothiazolinone-allergy). (insert bad luck brian meme here)
 
+# So what exactly are isothiazolines?
 <details>
-<summary># So what exactly are isothiazolines?</summary>
 
 these names are are all a bit of a mouthful, but i guess the gist of things is that they are commonly used preservatives.
 Currently the most common ones used in household cleaning products:
