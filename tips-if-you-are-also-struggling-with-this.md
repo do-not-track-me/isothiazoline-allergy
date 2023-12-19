@@ -38,7 +38,6 @@ so turns out all kinds of dodgy chemicals are also used in the clothes manufactu
 - when inquiring for product information, try to phrase the question in a neutral manner, as mentioned in the previous page, these allergies should not come as a surprise so it understandably doesn't take much for someone to take a defensive side on things.
 - even though MI has a fairly long half life (it is a preservative after all), it is possible to speed up this process by exposing it to acidic or alkaline conditions, (heat and uv radiation also helps) for an extended period of time (iirc alkaline might be slightly more effective, but then again that is worse for your skin so just be careful and be mindful of neutralizing things first)
 - I found some studies indicating that Glutathione is particularly good at neutralizing MI. 
-- 
 
 # where to find information
 - someone actually wrote a book about it! (Living with Methylisothiazolinone Allergy: The Complete Guide)[https://www.amazon.com/Living-Methylisothiazolinone-Allergy-Complete-Guide-ebook/dp/B07KV43FB6). There is a lot of useful information in here.
