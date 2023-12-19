@@ -18,7 +18,8 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 .. which is kind of unfortunate since [it's used practically everywhere](https://dermnetnz.org/topics/methylisothiazolinone-allergy). (insert bad luck brian meme here)
 
-# So what exactly are isothiazolines?
+<details>
+<summary># So what exactly are isothiazolines?</summary>
 
 these names are are all a bit of a mouthful, but i guess the gist of things is that they are commonly used preservatives.
 Currently the most common ones used in household cleaning products:
@@ -32,6 +33,7 @@ There can be some variation in the naming, and they might also be mentioned as t
 
 
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
+</details>
 # How can you help me / anyone else with a chemical allergy?
 
 I don't expect people to always know which products contain MI and which don't (it's not always listed directly on the package).
