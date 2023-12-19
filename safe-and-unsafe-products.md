@@ -53,11 +53,11 @@ Avoid at all cost! (There are probably countless other products, but these are j
 - Extreme stain and odour remover (for pet stains) (BIT)
 
 # these have caused a reaction, but i haven't confirmed the specific chemical
-- any product that contains perfume
-- all fabric softeners
+- Products containing perfume
+- Most fabric softeners
 - minirisk liquid products
 - ecover liquid products
 - vanish products
-- various air fresheners (many of these actually contain quite dodgy stuff)
+- various air fresheners (some of these actually contain quite dodgy stuff)
 
 
