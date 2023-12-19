@@ -35,7 +35,7 @@ To make things a bit easier though, i'll refer to the substance as MI in the res
 # How can you help me / anyone else with a chemical allergy?
 
 I don't expect people to always know which products contain MI and which don't (it's not always listed directly on the package).
-It would be really helpful though, if I am planning on stopping by, to get a list of products that have been used around the house:
+It would be really helpful though, if I am planning on stopping by, to get **a list of products** that have been used around the house:
 - cleaning products (used on any surfaces / fabrics in the house)
 - detergents
 - fabric softeners
