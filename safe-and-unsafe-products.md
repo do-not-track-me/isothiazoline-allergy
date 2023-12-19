@@ -50,7 +50,7 @@ Avoid at all cost! (There are probably countless other products, but these are j
 
 ## specific products that i've checked
 - Havu Mäntysuopa (at least liquid versions) (MIT and BIT, probably large quantities) (this was a bit of a surprise since it's kind of marketed as a natural product.) i even found [a report of it affecting pets](https://www.iltalehti.fi/kotimaa/a/b78562ab-8c6f-4efd-9d37-2e77db676e31)
-- Suma Rapid D6 (window cleaning spray) (BIT)
+- Suma Rapid D6 (window cleaning spray) (BIT, possibly high amount based on anecdotal evidence)
 - Extreme stain and odour remover (for pet stains) (BIT)
 
 # these have caused a reaction, but i haven't confirmed the specific chemical
