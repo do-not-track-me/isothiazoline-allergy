@@ -26,7 +26,10 @@ The gist of things is that they are commonly used preservatives. With an emphasi
 
 **Methylisothiazoline** (MI), **Methylchloroisothiazoline** (MCI), **Octhilinone** or **octyl-isothiazoline** (OIT), **Benzisothiazolinone** (BIT), and some **fragrances** might also contain these
 
-There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one. There are also various [brand names](https://dermnetnz.org/topics/methylisothiazolinone-allergy) (see chapter "alternative names") but I suspect this kind of naming might be more common in the US, at least I haven't come across these in any EU products.
+There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one. There are various 
+<details><summary>brand names </summary> Trade names for MCI/MI include Kathon®, Kathon CG®, Kathon 886®Euxyl K100, Acticide, Algucid, Algucid CH 50, Amerstat 250, GR 856,Groton TK2, Metatin GT, Mitco CC, Mx 323 Parmetol. This list is incomplete.</details>
+
+ but I suspect this kind of naming might be more common in the US, at least I haven't come across these in any EU products.
 
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
