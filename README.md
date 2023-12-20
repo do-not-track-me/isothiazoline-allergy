@@ -18,6 +18,8 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 .. which is kind of unfortunate since [it's used practically everywhere](https://dermnetnz.org/topics/methylisothiazolinone-allergy). (insert bad luck brian meme here)
 
+.. and to make things worse, these substances are not always mentioned on the packaging. see [this guide](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/how-to-check-for-mi.md) how to make sure
+
 # So what exactly are isothiazolines?
 
 these names are are all a bit of a mouthful, but i guess the gist of things is that they are commonly used preservatives.
@@ -53,9 +55,6 @@ I understand if this is too much trouble, don't worry, i'm used to people someti
 
 ## List of known good / bad products
 Here is a [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) I've collected of products i've ended up checking.
-
-  
-.. however, chemical companies have often done a good job at obscuring the actual contents of products (see chapter below)
 
 
 # Is this just some obscure problem?
