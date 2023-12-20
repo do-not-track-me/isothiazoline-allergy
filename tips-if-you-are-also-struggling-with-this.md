@@ -5,7 +5,8 @@ If you are actually dealing with this same bullshit though, here is some stuff i
 # general tips
 I'll start with the products which i've found are ok, since that list is shorter
 ## personal hygiene
-- for washing: a solid block of marseille soap
+- soap: a solid block of [marseille soap](https://www.ruohonjuuri.fi/products/marius-fabre-marseille-saippua-400-g)
+- shampoo: [saaren taika green tea & chamomille shampoo](https://shop.saarentaika.com/en/collections/ale/products/saaren-taika-vihrea-tee-kamomilla-palashampoo-psoriasis-hilseily) i had basically given up on washing my hair before running into this
 - moisturizer: organic (food grade) coconut oil
 - soothing irritated skin: organic honey as a mask, aloe vera
 - skin exfoliation: salt + honey mixture
