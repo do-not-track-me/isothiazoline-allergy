@@ -51,9 +51,8 @@ Either the precise name or a picture of the front and back side of the bottles s
 
 I understand if this is too much trouble, don't worry, i'm used to people sometimes not understanding. just be aware then of the chance i will need to leave soon after getting there, because i'll need to quickly go home to spend the rest of my day in the shower and probably also desperately washing my clothes.
 
-## how to choose safer products
-- Unscented products that have been allergy certified and manufactured in the EU are generally safe (i've found that products from LV are mostly ok), soaps that are sold in solid form (block soap, non-liquid detergent) generally don't need so many preservatives.
-- avoid using excessive amounts of cleaning products
+## List of known good / bad products
+Here is a [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) I've collected of products i've ended up checking.
 
   
 .. however, chemical companies have often done a good job at obscuring the actual contents of products (see chapter below)
@@ -85,9 +84,9 @@ Decreasing the overall exposure to these substances is definitely great, but for
 The first step is to check the packaging, it might (or might not) be mentioned as one of the ways mentioned above.
 
 ## Look for certificates
-if you find one of these on the packaging, it is probably safe
-- "allergia & astmaliitto"
-- "Joutsenmerkki" (not 100% sure about this)
+if you find one of these on the packaging, it is more likely to be safe, but as the certificate criteria only lists MI and not any other similar compounds, like BIT, OIT, etc.
+- "allergia & astmaliitto [criteria](https://www.allergia.fi/allergiatunnus/kriteerit/pesu-ja-puhdistusaineet/)
+- "Joutsenmerkki" [criteria](https://joutsenmerkki.fi/wp-content/uploads/2022/06/026e_6_13_CD.pdf)
 
 ## check the safety card
 If it's not mentioned, you're still not safe! many products actually containing this don't mention it directly on the packaging. Luckily the EU requires by law that all manufacturers need to provide a [safety card](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote) (or käyttöturvallisuustiedote in finnish) either on their website or by request, and any amounts of MI have to be mentioned there. (the Tukes page says these safety cards are [for profressionals only](https://tukes.fi/kemikaalit/reach/kayttoturvallisuustiedote), not for end users, why this information is not publicly available is a good question)
