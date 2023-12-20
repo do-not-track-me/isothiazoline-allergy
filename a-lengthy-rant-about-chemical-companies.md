@@ -18,17 +18,3 @@ Luckily, the EU eventually added some [stricter regulations](https://ec.europa.e
 The cogs of bureaucracy also move very slowly, and any EU regulation can take years to affect produts sold on store shelves.
 Decreasing the overall exposure to these substances is definitely great, but for people that are already sensitized, this may not be enough.
 
-# Most difficult products to avoid
-Products that are most difficult to avoid (i.e. it's not always your own choice what products people use):
-- laundry detergents and softeners
-- cleaning products used to clean surfaces at home or public spaces
-- some windscreen washer liquids
-- recently painted walls
-- air fresheners
-
-Fabric surfaces are sometimes the worst offenders, since they might have been repeatedly sprayed with a cleaning product containing MI, and the fabric ends up absorbing larger amounts of the substance than a hard surface would. 
-
-Since liquid (especially water based) cleaning products are easier to spoil vs ones stored in solid form, they are much more likely to contain MI, especially if the substance is not a preservative itself, and no other preservative is listed on the packaging. Products with a neutral-ish Ph are also more likely to contain MI, since it degrades in acid / alkaline solutions over time, and they don't spoil as easily anyway.
-
-[List of product types](https://dermnetnz.org/topics/methylisothiazolinone-allergy)
-* the EU has banned MI from leave-on products, so things like makeups and moisturizers should be less of a concern here.
