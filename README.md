@@ -34,9 +34,7 @@ To make things a bit easier though, i'll refer to the substance as MI in the res
 
 I don't expect people to know which products contain MI and which don't (especially since it's not always listed directly on the package).
 
-## List of household products used
-
-It would be really helpful, if I am planning on stopping by, to get **a list of products** that have been used around the house:
+It would be really helpful though, if I am planning on stopping by, to get **a list of products** that have been used around the house:
 - cleaning products (used on any surfaces / fabrics in the house)
 - detergents / fabric softeners
 and whether you have recently used any
