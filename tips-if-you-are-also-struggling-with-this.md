@@ -33,7 +33,7 @@ so turns out all kinds of dodgy chemicals are also used in the clothes manufactu
 - Washing soda is great for bad stains.
 
 ## other tips
-- Since liquid (especially water based) cleaning products are easier to spoil vs ones stored in solid form, they are much more likely to contain MI, especially if the substance is not a preservative itself, and no other preservative is listed on the packaging. Products with a neutral-ish Ph are also more likely to contain MI, since it degrades in acid / alkaline solutions over time, and they don't spoil as easily anyway.
+- Solid soaps spoil far less easily, so they are less likely to contain MI. For liquids, if the product is itself a preservative, or is either acidic or alkaline enough, it is unlikely for MI to be used (MI degrades faster in this kind of environment)
 - when inquiring for product information, try to phrase the question in a neutral manner, as mentioned in the previous page, these allergies should not come as a surprise so it understandably doesn't take much for someone to take a defensive side on things.
 - even though MI has a fairly long half life (it is a preservative after all), it is possible to speed up this process by exposing it to acidic or alkaline conditions, (heat and uv radiation also helps) for an extended period of time (iirc alkaline might be slightly more effective, but then again that is worse for your skin so just be careful and be mindful of neutralizing things first)
 - I found some studies indicating that Glutathione is particularly good at neutralizing MI.
