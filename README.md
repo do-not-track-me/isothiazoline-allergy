@@ -35,13 +35,13 @@ To make things a bit easier though, i'll refer to the substance as MI in the res
 I don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
 It would be really helpful though, if I am planning on stopping by, to get **a list of products** that have been used around the house:
-- cleaning products (used on any surfaces / fabrics in the house)
+- cleaning products used on any surfaces and fabrics around the house
 - detergents / fabric softeners
-and whether you have recently used any
 - air fresheners
-- if any walls have been painted less than 2 weeks ago
 
-(things like hand soap don't matter, i usually just bring my own)
+*if any walls have been painted less than 2 weeks ago
+
+(things like hand soap don't matter, i can bring my own)
 
 Either the precise name or a picture of the front and back side of the bottles should be enough for me to look them up.
 - the more information i have, the easier it is for me to prepare / take the necessary precautions.
