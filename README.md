@@ -32,7 +32,7 @@ To make things a bit easier though, i'll refer to the substance as MI in the res
 
 # How can you help me / someone else with this allergy?
 
-I don't expect people to know which products contain MI and which don't (especially since it's not always listed directly on the package).
+I don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
 It would be really helpful though, if I am planning on stopping by, to get **a list of products** that have been used around the house:
 - cleaning products (used on any surfaces / fabrics in the house)
