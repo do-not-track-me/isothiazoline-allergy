@@ -46,7 +46,7 @@ Just the exact name of the product should be enough for me to search for it onli
 
 *The more information i have, the easier it is for me to prepare and take the necessary precautions.*
 
-I understand if this is too much trouble, don't worry, i'm used to people sometimes not understanding. In any case please don't be offended if I end up having to leave soon after getting there because of this, it is because I'll need to quickly go home to spend the rest of my day in the shower and desperately washing my clothes.
+I understand if this is too much trouble, don't worry, i'm used to people sometimes not understanding. In any case please don't be offended if I end up having to leave soon after getting there because of this, it might be because I'll need to quickly go home to spend the rest of my day in the shower and desperately washing my clothes.
 
 ## List of known good / bad products
 I put together this [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) that I've ended up checking.
