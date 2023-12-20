@@ -38,11 +38,11 @@ If I am planning on stopping by, I might ask you for **a list of all products** 
 - detergents / fabric softeners
 - air fresheners
 
+*maybe recently painted walls?(?)
+
 Just the exact name of the product should be enough for me to search for it online (i got a pretty good routine on this now)
 
 (things like hand soap don't matter, i will bring my own anyway)
-
-(i've also ran into some reports about recently painted walls being a possible issue too, but not sure how likely that is.)
 
 *The more information i have, the easier it is for me to prepare and take the necessary precautions.*
 
