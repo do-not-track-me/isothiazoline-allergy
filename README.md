@@ -59,6 +59,8 @@ Here is a [list of products](https://github.com/do-not-track-me/isothiazoline-al
 
 MI was awarded as the Contact Allergen of the Year 2013, and is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/) in our patient population, and has been referred to as a "contact allergen epidemic".
 
+See the subpage [history and regulations](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/history-and-regulations.md) for more info.
+
 The situation has gotten worse after Parabens somehow got themselves a bad reputation, even though they are far less likely to cause allergies. So more manufacturers have switched to MI-like chemicals.
 
 ## So why is this even legal?
@@ -92,15 +94,13 @@ Since liquid (especially water based) cleaning products are easier to spoil vs o
 
 # FAQ
 
-'''
 *"I don't use any harsh chemicals, maybe it's just psychological"*
-- i you need proof i haven't lost my mind, i can show the allergy patch test results, as well as a doctors note that recommends avoiding any spaces where MI has been used
-'''
+In case you need proof i haven't lost my mind, i can show the allergy patch test results, as well as a doctors note that recommends avoiding any spaces where MI is used for the foreseeable future.
 
-"But this product says it's all natural!"
-- looks can be deceiving, and i've ran into countless "100% natural" products that did end up having the substance
-"But the products have to be preserved somehow!!"
-- There are plenty of less harmful alternatives. 
+*"But this product says it's all natural!"*
+Looks can be deceiving, and i've ran into countless "100% natural" products that did end up having the substance (see my [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) for examples)
+*"But the products have to be preserved somehow!!"*
+There are plenty of less harmful alternatives. 
 "But things need to be cleaned!"
 - If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain, the answer is no. A block of soap can be created from literally just two different substances, and has been used for thousands of years just fine, and plenty of other simple products can be used for all kinds of different purposes.
 "But my clothes smell so fresh when i use this fabric softener!"
