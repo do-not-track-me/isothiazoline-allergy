@@ -69,7 +69,7 @@ See the subpage [history and regulations](https://github.com/do-not-track-me/iso
 
 > But the products have to be preserved somehow!!
 
-*There are plenty of less harmful alternatives. *
+*There are plenty of less harmful alternatives. They just make less money.*
 
 > But things need to be cleaned!
 
