@@ -2,7 +2,7 @@
 
 (I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
 
-So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals) to this chemical group called
+So I have a contact allergy [^1] to this chemical group called
 
 * [isothiazolines](https://en.wikipedia.org/wiki/Isothiazolinone) *
 
@@ -83,3 +83,5 @@ For a more lengthy rant about the subject, click [here]().
 
 https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/tips-if-you-are-also-struggling-with-this.md
 
+
+[^1] https://echa.europa.eu/hot-topics/skin-sensitising-chemicals
