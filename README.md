@@ -1,4 +1,4 @@
-# Isothiazoline contact dermatitis explained
+# Isothiazoline allergy wiki
 
 (I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
 
@@ -12,7 +12,7 @@ So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising
 
 Any contact with surfaces (even trace amounts) that have been cleaned with a product containing this preservative, will cause very uncomfortable skin irritation.
 
-Ignoring the symptoms will not make them go away, and the only thing that helps is to take a long cold shower, wash my clothes multiple times, etc.
+Ignoring the symptoms will not make them go away, and the only thing that helps is to somehow flush the allergen off of the skin, i.e. take a long cold shower, wash clothes multiple times, etc.
 
 This is a [lifelong condition, desensitization does not work, and there is no cure](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals). The only way to avoid symptoms, is to avoid contact to the allergen.
 
