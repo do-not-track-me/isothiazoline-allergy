@@ -1,4 +1,4 @@
-# History & regulations of MI
+# A rant about chemical corporations
 
 MI was awarded as the Contact Allergen of the Year 2013, and is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/) in our patient population, and has been referred to as a "contact allergen epidemic".
 
