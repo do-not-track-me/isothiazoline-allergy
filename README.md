@@ -54,7 +54,7 @@ I put together this [list of products](https://github.com/do-not-track-me/isothi
 # Is this just some obscure problem?
 Unfortunately, it's not. MI was awarded as the Contact Allergen of the Year 2013, and is now [the most common cause of allergic contact dermatitis](https://www.occderm.asn.au/health-professionals/epidemic-of-allergy-to-preservative-methylisothiazolinone-mi/), and has been referred to as a "contact allergen epidemic".
 
-For a more lengthy rant about the subject, click [here]().
+For a more lengthy rant about the subject, click [here](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/a-lengthy-rant-about-chemical-companies.md).
 
 # FAQ
 
