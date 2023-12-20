@@ -26,7 +26,7 @@ The gist of things is that they are commonly used preservatives. With an emphasi
 
 **Methylisothiazoline** (MI), **Methylchloroisothiazoline** (MCI), **Octhilinone** or **octyl-isothiazoline** (OIT), **Benzisothiazolinone** (BIT), and some **fragrances** might also contain these
 
-There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one. There are also various brand names, but afaik those are 
+There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one.
 
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
