@@ -92,8 +92,11 @@ Since liquid (especially water based) cleaning products are easier to spoil vs o
 
 # FAQ
 
-"I don't use any harsh chemicals, maybe it's just psychological"
+'''
+*"I don't use any harsh chemicals, maybe it's just psychological"*
 - i you need proof i haven't lost my mind, i can show the allergy patch test results, as well as a doctors note that recommends avoiding any spaces where MI has been used
+'''
+
 "But this product says it's all natural!"
 - looks can be deceiving, and i've ran into countless "100% natural" products that did end up having the substance
 "But the products have to be preserved somehow!!"
