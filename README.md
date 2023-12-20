@@ -1,4 +1,4 @@
-# So i have this isothiazoline allergy
+# isothiazoline allergy wiki
 
 (I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
 
@@ -31,7 +31,6 @@ There can be some variation in the naming, and they might also be mentioned as t
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
 # How can you help?
-
 I don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
 It would be really helpful though, if I am planning on stopping by, to get **a list of all products** that have been used around the house:
@@ -43,7 +42,6 @@ Either the precise name or a picture of the front and back side of the bottles s
 
 (things like hand soap don't matter, i can bring my own)
 (i've ran into some reports about recently painted walls being a possible issue too, but not sure how likely that is.)
-
 
 
 *the more information i have, the easier it is for me to prepare and take the necessary precautions.*
