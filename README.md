@@ -45,7 +45,7 @@ It would be really helpful though, if I am planning on stopping by, to get **a l
 
 Either the precise name or a picture of the front and back side of the bottles should be enough for me to look them up.
 
-*the more information i have, the easier it is for me to prepare / take the necessary precautions.*
+*the more information i have, the easier it is for me to prepare and take the necessary precautions.*
 
 I understand if this is too much trouble, don't worry, i'm used to people sometimes not understanding. just be aware then of the chance i will need to leave soon after getting there, because i'll need to quickly go home to spend the rest of my day in the shower and probably also desperately washing my clothes.
 
