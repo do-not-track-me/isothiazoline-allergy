@@ -18,7 +18,7 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 .. which is kind of unfortunate since [it's used practically everywhere](https://dermnetnz.org/topics/methylisothiazolinone-allergy). (insert bad luck brian meme here)
 
-.. and to make things worse, these substances are not always mentioned on the packaging. see [this guide](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/how-to-check-for-mi.md) how to make sure
+.. and to make things worse, these substances are not always mentioned on the packaging. see [> this guide](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/how-to-check-for-mi.md) how to make sure
 
 # So what exactly are isothiazolines?
 
