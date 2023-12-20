@@ -52,7 +52,7 @@ Either the precise name or a picture of the front and back side of the bottles s
 I understand if this is too much trouble, don't worry, i'm used to people sometimes not understanding. just be aware then of the chance i will need to leave soon after getting there, because i'll need to quickly go home to spend the rest of my day in the shower and probably also desperately washing my clothes.
 
 ## List of known good / bad products
-Here is a [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) I've collected of products i've ended up checking.
+Here is a [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) that I've collected of products i've had to check.
 
 
 # Is this just some obscure problem?
@@ -61,50 +61,22 @@ MI was awarded as the Contact Allergen of the Year 2013, and is now [the most co
 
 See the subpage [history and regulations](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/history-and-regulations.md) for more info.
 
-The situation has gotten worse after Parabens somehow got themselves a bad reputation, even though they are far less likely to cause allergies. So more manufacturers have switched to MI-like chemicals.
-
-## So why is this even legal?
-Some time in 1990, the nice people at chemical companies published this study, claiming that MI is perfectly safe and nothing to worry about. When looking more closely at the study though, there is a clear gap in the test data. 
-
-Some years later, this canadian study filled in that gap, and found that with enough cumulative exposure over a lifetime, nearly everyone will develop allergies eventually.
-Still even though there has been a mountain of studies that bring up the concerns of this product, it has remained legal for now.
-
-Luckily, the EU eventually added some [stricter regulations](https://ec.europa.eu/growth/sectors/cosmetics/legislation_en) in 2017, banning this product from *leave-on* cometic products.
-
-.. which is great, but that still leaves all other products that do still come into skin contact.
-.. and many similar enough products that don't fall within the regulated substance list (kinda like designer drugs, it's relatively easy for the chemical company to just modify the substance a bit and then continue using it)
-
-The cogs of bureaucracy also move very slowly, and any EU regulation can take years to affect produts sold on store shelves.
-Decreasing the overall exposure to these substances is definitely great, but for people that are already sensitized, this may not be enough.
-
-# Most difficult products to avoid
-Products that are most difficult to avoid (i.e. it's not always your own choice what products people use):
-- laundry detergents and softeners
-- cleaning products used to clean surfaces at home or public spaces
-- some windscreen washer liquids
-- recently painted walls
-- air fresheners
-
-Fabric surfaces are sometimes the worst offenders, since they might have been repeatedly sprayed with a cleaning product containing MI, and the fabric ends up absorbing larger amounts of the substance than a hard surface would. 
-
-Since liquid (especially water based) cleaning products are easier to spoil vs ones stored in solid form, they are much more likely to contain MI, especially if the substance is not a preservative itself, and no other preservative is listed on the packaging. Products with a neutral-ish Ph are also more likely to contain MI, since it degrades in acid / alkaline solutions over time, and they don't spoil as easily anyway.
-
-[List of product types](https://dermnetnz.org/topics/methylisothiazolinone-allergy)
-* the EU has banned MI from leave-on products, so things like makeups and moisturizers should be less of a concern here.
-
 # FAQ
 
 *"I don't use any harsh chemicals, maybe it's just psychological"*
 In case you need proof i haven't lost my mind, i can show the allergy patch test results, as well as a doctors note that recommends avoiding any spaces where MI is used for the foreseeable future.
 
 *"But this product says it's all natural!"*
-Looks can be deceiving, and i've ran into countless "100% natural" products that did end up having the substance (see my [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) for examples)
+Looks can be deceiving. I've ran into countless "100% natural" products that did end up having the substance (see my [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) for examples)
+
 *"But the products have to be preserved somehow!!"*
 There are plenty of less harmful alternatives. 
-"But things need to be cleaned!"
-- If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain, the answer is no. A block of soap can be created from literally just two different substances, and has been used for thousands of years just fine, and plenty of other simple products can be used for all kinds of different purposes.
-"But my clothes smell so fresh when i use this fabric softener!"
-- That "fresh" smell is actually an artificial chemical smell that is added to the detergent. If you can smell it on your clothes, it means those chemicals are in your clothes, in contact with your skin 247. Actually clean clothes that haven't been soaked in some overengineered chemical soup, should smell like nothing at all.
+
+*"But things need to be cleaned!"*
+- If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain without understanding what they actually are, the answer is no. A block of soap can be created from literally just two different substances, and has been used for [thousands of years](https://en.wikipedia.org/wiki/Soap#History) just fine, and plenty of other simple products can be used for all kinds of different purposes.
+
+*"But my clothes smell so fresh when i use this fabric softener!"*
+- That "fresh" smell is actually an artificial chemical smell that is added to the detergent. If you can smell it on your clothes, it means those chemicals are in your clothes, in contact with your skin 24/7. Actually clean clothes that haven't been soaked in some overengineered chemical soup, should smell like nothing at all.
 
 
 # if you are in the same boat, here are some tips that might help
