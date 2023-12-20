@@ -8,7 +8,7 @@ So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising
 
 , a preservative used in most liquid detergents, cleaning products, etc.
 
-# What this means in practice
+# What does this mean?
 
 Any contact with surfaces (even trace amounts) that have been cleaned with a product containing this preservative, will cause very uncomfortable skin irritation.
 
