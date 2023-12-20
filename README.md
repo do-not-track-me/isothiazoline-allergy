@@ -31,9 +31,9 @@ There can be some variation in the naming, and they might also be mentioned as t
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
 # How can you help me or someone with a similar allergy?
-I don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
+I absolutely don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
-It would be really helpful though, if I am planning on stopping by, to get **a list of all products** that have been used around the house:
+It would be super helpful though, if I am planning on stopping by, to get **a list of all products** that have been used around the house:
 - cleaning products used on any surfaces and fabrics
 - detergents / fabric softeners
 - air fresheners
