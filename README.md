@@ -33,15 +33,16 @@ To make things a bit easier though, i'll refer to the substance as MI in the res
 # How can you help me or someone with a similar allergy?
 I absolutely don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
-It would be super helpful though, if I am planning on stopping by, to get **a list of all products** that have been used around the house:
+If I am planning on stopping by, I might ask you for **a list of all products** that have been used around the house:
 - cleaning products used on any surfaces and fabrics
 - detergents / fabric softeners
 - air fresheners
 
-Either the precise name or a picture of the front and back side of the bottles should be enough for me to look them up.
+Just the exact name of the product should be enough for me to search for it online (i got a pretty good routine on this now)
 
 (things like hand soap don't matter, i can bring my own)
-(i've ran into some reports about recently painted walls being a possible issue too, but not sure how likely that is.)
+
+(i've also ran into some reports about recently painted walls being a possible issue too, but not sure how likely that is.)
 
 
 *the more information i have, the easier it is for me to prepare and take the necessary precautions.*
