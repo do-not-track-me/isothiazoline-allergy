@@ -121,11 +121,6 @@ Since liquid (especially water based) cleaning products are easier to spoil vs o
 [List of product types](https://dermnetnz.org/topics/methylisothiazolinone-allergy)
 * the EU has banned MI from leave-on products, so things like makeups and moisturizers should be less of a concern here.
 
-# Worst offenders
-- Omo Color (also the capsules)
-- liquid mäntysuopa (even though the packaging says it's 100% natural) (there's even [reports of this affecting pets](https://www.iltalehti.fi/kotimaa/a/b78562ab-8c6f-4efd-9d37-2e77db676e31) )
-- add more items here later
-
 # FAQ
 
 "I don't use any harsh chemicals, maybe it's just psychological"
