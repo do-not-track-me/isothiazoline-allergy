@@ -39,11 +39,12 @@ It would be really helpful though, if I am planning on stopping by, to get **a l
 - detergents / fabric softeners
 - air fresheners
 
-* also, if any walls have been painted in the past month
+Either the precise name or a picture of the front and back side of the bottles should be enough for me to look them up.
 
 (things like hand soap don't matter, i can bring my own)
+(i've ran into some reports about recently painted walls being a possible issue too, but not sure how likely that is.)
 
-Either the precise name or a picture of the front and back side of the bottles should be enough for me to look them up.
+
 
 *the more information i have, the easier it is for me to prepare and take the necessary precautions.*
 
