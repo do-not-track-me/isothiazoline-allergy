@@ -39,7 +39,7 @@ It would be really helpful though, if I am planning on stopping by, to get **a l
 - detergents / fabric softeners
 - air fresheners
 
-*if any walls have been painted less than 2 weeks ago
+* also, if any walls have been painted in the past month
 
 (things like hand soap don't matter, i can bring my own)
 
