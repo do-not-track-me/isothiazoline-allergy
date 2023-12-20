@@ -33,11 +33,21 @@ so turns out all kinds of dodgy chemicals are also used in the clothes manufactu
 - Washing soda is great for bad stains.
 
 ## other tips
-- as a general rule of thumb, solid soaps need less preservatives
+- Since liquid (especially water based) cleaning products are easier to spoil vs ones stored in solid form, they are much more likely to contain MI, especially if the substance is not a preservative itself, and no other preservative is listed on the packaging. Products with a neutral-ish Ph are also more likely to contain MI, since it degrades in acid / alkaline solutions over time, and they don't spoil as easily anyway.
 - when inquiring for product information, try to phrase the question in a neutral manner, as mentioned in the previous page, these allergies should not come as a surprise so it understandably doesn't take much for someone to take a defensive side on things.
 - even though MI has a fairly long half life (it is a preservative after all), it is possible to speed up this process by exposing it to acidic or alkaline conditions, (heat and uv radiation also helps) for an extended period of time (iirc alkaline might be slightly more effective, but then again that is worse for your skin so just be careful and be mindful of neutralizing things first)
 - I found some studies indicating that Glutathione is particularly good at neutralizing MI.
 - having a brief explanation as text that can be shared if needed. explaining the whole shebang can sometimes feel overwhelming, especially if it needs to be done late at night when you just want to sleep
+- Fabric surfaces seem sometimes the worst offenders, since they might have been repeatedly sprayed with a cleaning product containing MI, and the fabric ends up absorbing larger amounts of the substance than a hard surface would. 
+
+## some surprising sources of MI
+- some (luckily not all) windscreen washer fluids
+- recently painted walls
+- air fresheners
+
+
+
+
 
 ## useful products
 - single use plastic shoe covers (useful when needing to go where the floor is lava)
