@@ -22,9 +22,9 @@ This is a [lifelong condition, desensitization does not work, and there is no cu
 
 # So what exactly are isothiazolines?
 
-The gist of things is that they are commonly used preservatives. With an emphasis on common. Currently the most common ones used in household cleaning products: (i know the names are kind of of a mouthful)
+The gist of things is that they are commonly used preservatives. With an emphasis on common. Currently the most common ones used in household cleaning products:
 
-**Methylisothiazoline** (MI), **Methylchloroisothiazoline** (MCI), **Octhilinone** or **octyl-isothiazoline** (OIT), **Benzisothiazolinone** (BIT), and some **fragrances** might also contain these
+**Methylisothiazoline** (MI), **Methylchloroisothiazoline** (MCI), **Octhilinone** or **octyl-isothiazoline** (OIT), **Benzisothiazolinone** (BIT), and some **fragrances** might also contain these  (i know, the names are kind of of a mouthful)
 
 There can be some variation in the naming, and they might also be mentioned as the chemical names, for example: 2-methyl-4-isothiazolin-3-one.
 
