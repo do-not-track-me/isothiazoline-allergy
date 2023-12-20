@@ -12,7 +12,7 @@ So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising
 
 Any contact with surfaces that have been cleaned with a product containing this preservative (even trace amounts), will cause very uncomfortable skin irritation.
 
-Ignoring the symptoms will not make them go away, and the only thing that helps is to somehow flush the allergen off of the skin, i.e. take a long cold shower, wash clothes multiple times, etc. (and then wait for my skin to heal)
+Ignoring the symptoms will not make them go away, and the only thing that helps is to somehow flush the allergen off, i.e. take a long cold shower, wash clothes multiple times, etc. (and then wait for my skin to heal)
 
 This is a [lifelong condition, desensitization does not work, and there is no cure](https://echa.europa.eu/hot-topics/skin-sensitising-chemicals). The only way to avoid symptoms, is to avoid contact to the allergen.
 
