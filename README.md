@@ -84,4 +84,4 @@ For a more lengthy rant about the subject, click [here]().
 https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/tips-if-you-are-also-struggling-with-this.md
 
 
-[^1] https://echa.europa.eu/hot-topics/skin-sensitising-chemicals
+[^1]: https://echa.europa.eu/hot-topics/skin-sensitising-chemicals
