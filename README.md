@@ -61,23 +61,23 @@ See the subpage [history and regulations](https://github.com/do-not-track-me/iso
 
 > I don't use any harsh chemicals, maybe it's just psychological
 
-I might have lost my mind dealing with this, but I also have patch test results, as well as a doctor's note that recommends avoiding any spaces where MI is used for the foreseeable future.
+*I might have lost my mind dealing with this, but I also have patch test results, as well as a doctor's note that recommends avoiding any spaces where MI is used for the foreseeable future.*
 
 > But this product says it's all natural!
 
-Looks can be deceiving. I've ran into countless "100% natural" products that did end up having the substance (see my [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) for examples)
+*Looks can be deceiving. I've ran into countless "100% natural" products that did end up having the substance (see my [list of products](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/safe-and-unsafe-products.md) for examples)*
 
 > But the products have to be preserved somehow!!
 
-There are plenty of less harmful alternatives. 
+*There are plenty of less harmful alternatives. *
 
 > But things need to be cleaned!
 
-If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain without understanding what they even are, the answer is no. A block of soap can be created from literally just two different substances, and has been used for [thousands of years](https://en.wikipedia.org/wiki/Soap#History) just fine, and plenty of other simple products can be used for all kinds of different purposes.
+*If the question is, do you need to continuously expose yourself to an endless list of chemicals that modern cosmetic/cleaning products contain without understanding what they even are, the answer is no. A block of soap can be created from literally just two different substances, and has been used for [thousands of years](https://en.wikipedia.org/wiki/Soap#History) just fine, and plenty of other simple products can be used for all kinds of different purposes.*
 
 > But my clothes smell so fresh when i use this fabric softener!
 
-That "fresh" smell is actually an artificial chemical smell that is added to the detergent. If you can smell it on your clothes, it means those chemicals are in your clothes, in contact with your skin 24/7. Actually clean clothes that haven't been soaked in some overengineered chemical soup, should smell like nothing at all.
+*That "fresh" smell is actually an artificial chemical smell that is added to the detergent. If you can smell it on your clothes, it means those chemicals are in your clothes, in contact with your skin 24/7. Actually clean clothes that haven't been soaked in some overengineered chemical soup, should smell like nothing at all.*
 
 
 # if you are in the same boat as me, here are some tips that might help
