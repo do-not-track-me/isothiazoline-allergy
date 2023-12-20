@@ -1,9 +1,7 @@
-On the [previous page](https://github.com/do-not-track-me/isothiazoline-allergy/blob/main/README.md) I went through some generally useful info about what MI allergy is, and how others can help make life a bit easier.
-
-If you are actually dealing with this same bullshit though, here is some stuff i've found useful
+If you are dealing with the same bullshit, here is some stuff i've found useful
 
 # general tips
-I'll start with the products which i've found are ok, since that list is shorter
+I'll start with the products which i've found are ok, since that list is shorter.
 ## personal hygiene
 - soap: a solid block of [marseille soap](https://www.ruohonjuuri.fi/products/marius-fabre-marseille-saippua-400-g)
 - shampoo: [saaren taika green tea & chamomille shampoo](https://shop.saarentaika.com/en/collections/ale/products/saaren-taika-vihrea-tee-kamomilla-palashampoo-psoriasis-hilseily) i had basically given up on washing my hair before running into this
