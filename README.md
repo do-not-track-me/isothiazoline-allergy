@@ -1,4 +1,4 @@
-# Isothiazoline allergy wiki
+# So i have this isothiazoline allergy
 
 (I have pasted you this link since it's pretty tedious to explain a somewhat complex subject repeatedly to everyone. The text is written in the context of EU / finnish legislation and common local products.  a few links are still missing but will add them soon)
 
@@ -30,7 +30,7 @@ There can be some variation in the naming, and they might also be mentioned as t
 
 To make things a bit easier though, i'll refer to the substance as MI in the rest of the page
 
-# How can you help me / someone else with this allergy?
+# How can you help?
 
 I don't expect anyone to know which products contain MI and which don't (especially since it's not always listed on the package).
 
