@@ -10,7 +10,7 @@ So I have a [contact allergy](https://echa.europa.eu/hot-topics/skin-sensitising
 
 # What does this mean?
 
-Any contact with surfaces (even trace amounts) that have been cleaned with a product containing this preservative, will cause very uncomfortable skin irritation.
+Any contact with surfaces that have been cleaned with a product containing this preservative (even trace amounts), will cause very uncomfortable skin irritation.
 
 Ignoring the symptoms will not make them go away, and the only thing that helps is to somehow flush the allergen off of the skin, i.e. take a long cold shower, wash clothes multiple times, etc.
 
